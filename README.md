@@ -13,7 +13,7 @@ A modern web application that allows users to load videos from multiple sources 
 
 ## How to run 
 
-- **Hosted at:** <a href "https://assessment-video-player.vercel.app">https://assessment-video-player.vercel.app</a>
+- **Hosted at:** <a href="https://assessment-video-player.vercel.app">https://assessment-video-player.vercel.app</a>
 - **Sample Video and Test Captions**
 - **Sample Video**
   ```bash
